@@ -23,6 +23,14 @@ I'm not sure what I am yet — but I'm working on it.
 
 ---
 
+### 🌱 What's Next
+
+- **Networking** — starting a course July 18
+- **Cloud Engineering** — on the roadmap
+- Always adding something new to the list
+
+---
+
 ### 📚 Beyond the Code
 
 - **Student at:** ITLA — Instituto Tecnológico de las Américas
