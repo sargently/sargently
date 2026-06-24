@@ -1,4 +1,4 @@
-# Gabriela Ramírez
+# Gabriela 
 ### Systems Engineering Student | Developer in Progress
 
 > *"Not all those who wander are lost."* — **J.R.R. Tolkien**
