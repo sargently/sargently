@@ -25,7 +25,6 @@ I'm not sure what I am yet — but I'm working on it.
 
 ### 🌱 What's Next
 
-- **Networking** — starting a course July 18
 - **Cloud Engineering** — on the roadmap
 - Always adding something new to the list
 
@@ -34,9 +33,8 @@ I'm not sure what I am yet — but I'm working on it.
 ### 📚 Beyond the Code
 
 - **Student at:** ITLA — Instituto Tecnológico de las Américas
-- **Reading:** Whatever stays with me
-- **Company:** Three cats who supervise my code
-- **Philosophy:** Detail is not the enemy of the big picture — it *is* the big picture
+- **Reading:** Dostoyevsky 
+- **Company:** Three cats owo
 
 ---
 
